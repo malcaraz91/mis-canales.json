@@ -42,12 +42,6 @@
             "epgId": "runtime-comedia-1"
         },
         {
-            "name": "FeelGood",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg",
-            "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}",
-            "epgId": "feelgood"
-        },
-        {
             "name": "Runtime Series ",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132",
