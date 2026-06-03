@@ -114,6 +114,30 @@
             "epgId": "curro-jimenez"
         },
         {
+                    "name": "Toon Goggles en Español",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/WhxvMJFFonzITVAqe_rRm5A0xXxTbfDi_bIM829jH6A.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=771",
+                    "epgId": "toon-goggles-en-espanol-0"
+                },
+
+
+
+  {
+                    "name": "Pelimex",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg",
+                    "url": "https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184",
+                    "epgId": "pelimex"
+                },
+
+
+  {
+                    "name": "C4 en Alerta",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
+                    "epgId": "c4-en-alerta"
+                },
+
+        {
             "name": "Corazón",
             "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/corazon_1920x1080.png",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
