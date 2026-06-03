@@ -113,6 +113,14 @@
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435",
             "epgId": "curro-jimenez"
         },
+
+        {
+                    "name": "Toon Goggles en Español",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5jjvme66ZjBCTSV-7b-LCuQVAEgrNwa4dw&s",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=771",
+                    "epgId": "toon-goggles-en-espanol-0"
+                },
+
      
   {
                     "name": "Pelimex",
