@@ -7,7 +7,7 @@
     "stations": [
         {
             "name": "Runtime",
-            "image": "https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg",
+            "image": "https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=3ea8c6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fruntimecs.png",
             "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
             "epgId": "runtime-4"
         },
